@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# JetBrains IDEs (PyCharm 등) 설정 파일 제외
+.idea/
+
+# 운영체제 임시 파일 제외
+.DS_Store
+Thumbs.db
+
 # Distribution / packaging
 .Python
 build/
